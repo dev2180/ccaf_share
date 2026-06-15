@@ -14,6 +14,20 @@ function App() {
         textAlign: 'center',
         marginBottom: '32px',
       }}>
+        {/* Premium Logo */}
+        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
+          <img 
+            src="logo.png" 
+            alt="CCAF Share Logo" 
+            style={{ 
+              width: '80px', 
+              height: '80px', 
+              borderRadius: '20px',
+              boxShadow: '0 8px 24px -6px rgba(139, 58, 42, 0.2)',
+              border: '2px solid #fff',
+            }} 
+          />
+        </div>
         <h1 style={{
           fontSize: '36px',
           fontWeight: 700,
