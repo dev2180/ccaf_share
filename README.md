@@ -35,6 +35,13 @@ When studying, candidates often encounter subtle traps, register sudden conceptu
 
 ---
 
+## 🌐 Live URL
+The app is hosted live via GitHub Pages at:
+👉 **[https://dev2180.github.io/ccaf_share/](https://dev2180.github.io/ccaf_share/)**
+
+
+---
+
 ## 🛠️ Getting Started & Installation
 
 To run this application locally, ensure you have Node.js installed, then execute:
